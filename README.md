@@ -1,7 +1,7 @@
 # **Stock-Analysis**
 
 ## **Overview of the Project**
- Our client would like to run an analysis on stock tickers to determine which stock has the best return for his parents. To complete this project I used VBA Macros to run the analysis. The first set of script worked well, however, we refactored the code to make it run more efficient and faster. 
+ Our client would like to run an analysis on stock tickers to determine which stock has the best return for his parents. To complete this project I used VBA Macros to run the analysis. The first set of script worked well, however, we refactored the code to make it run more efficient and faster. Client would also like buttons in order to run the code quickly. 
  
 ## **Results**
 The first version of code gave me the answers I was looking forever, however, it was a little slow. When I refactored the code, it made a staggering improvement on time to answer. We needed to refactor in this case as we want to expand our data search. If we did not refactor and added more tickers this would be a very slow macro which creates inefficiencies. Nested loops seem to slow the code down as there is more for the computer to read/do. Using arrays really helped speed things up when we added that to the refactored coding. Module 1 is original code and Module 2 is refactored code within the Worksheet> VB. As you can see below, the first script took over 5 seconds while the refactored code took a fraction of a second!
@@ -12,7 +12,7 @@ The first version of code gave me the answers I was looking forever, however, it
 
 **Original Code**
 
-![2018 Orginal Code](https://github.com/Adam-Warrick/Stock-Analysis/blob/main/2018%20Orginal%20Code.png)
+![2018 Orginal Dim Code](https://github.com/Adam-Warrick/Stock-Analysis/blob/main/2018%20Original%20Dim%20Code.png)
 
 **Refactored Spreadsheet with Time Clock**
 
