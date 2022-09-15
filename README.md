@@ -13,11 +13,13 @@ The first version of code gave me the answers I was looking forever, however, it
 https://github.com/Adam-Warrick/Stock-Analysis/commit/876003adab534e9034215316dc6fcfbc12d10a2b
 
 **Original Code**
+https://github.com/Adam-Warrick/Stock-Analysis/blob/main/2018%20Orginal%20Code.png
 
 **Refactored Spreadsheet with Time Clock**
 https://github.com/Adam-Warrick/Stock-Analysis/blob/main/2018%20Analysis%20-%20Refactored%20Script.png
 
 **Refactored Code**
+
 
 ## **Summary**
 In this case it is proven that Refactoring is the way to go in order to be more efficient.
