@@ -15,6 +15,7 @@ https://github.com/Adam-Warrick/Stock-Analysis/commit/876003adab534e9034215316dc
 **Original Code**
 
 **Refactored Spreadsheet with Time Clock**
+https://github.com/Adam-Warrick/Stock-Analysis/blob/main/2018%20Analysis%20-%20Refactored%20Script.png
 
 **Refactored Code**
 
