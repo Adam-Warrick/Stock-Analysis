@@ -10,6 +10,7 @@ The first version of code gave me the answers I was looking forever, however, it
 
 
 **Original Spreadsheet with Time Clock**
+https://github.com/Adam-Warrick/Stock-Analysis/commit/876003adab534e9034215316dc6fcfbc12d10a2b
 
 **Original Code**
 
